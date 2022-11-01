@@ -1,0 +1,114 @@
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.exe.config
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csprojResolveAssemblyReference.cache
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.LoginForm.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.Properties.Resources.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csproj.GenerateResource.Cache
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.exe
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.pdb
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.exe
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.pdb
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.PrincipalForm.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.RegistrarCliente.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.RegistrarEmpleado.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.exe.config
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.exe
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.pdb
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.exe
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\EmpresaTuLuz.pdb
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.LoginForm.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.PrincipalForm.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.Properties.Resources.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.RegistrarCliente.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.RegistrarEmpleado.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.Empleados.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csproj.AssemblyReference.cache
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\EnvDTE.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\stdole.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\EnvDTE80.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\VSLangProj.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\VSLangProj80.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\VSLangProj2.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.exe.config
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.csproj.CopyComplete
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.ReporteListadoCotizaciones.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\RdlCompile.cache
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\RdlCompile.compiled
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.ReporteEstadisticaVentas.resources
+C:\Users\Cris\Desktop\Repositorios\EmpresaTuLuz\obj\Debug\EmpresaTuLuz.ReporteListadoVentas.resources

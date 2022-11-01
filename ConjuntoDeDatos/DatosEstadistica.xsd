@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatosEstadistica" targetNamespace="http://tempuri.org/DatosEstadistica.xsd" xmlns:mstns="http://tempuri.org/DatosEstadistica.xsd" xmlns="http://tempuri.org/DatosEstadistica.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatosEstadistica" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DatosEstadistica" msprop:Generator_UserDSName="DatosEstadistica">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TablaEstadistica" msprop:Generator_TableClassName="TablaEstadisticaDataTable" msprop:Generator_TableVarName="tableTablaEstadistica" msprop:Generator_RowChangedName="TablaEstadisticaRowChanged" msprop:Generator_TablePropName="TablaEstadistica" msprop:Generator_RowDeletingName="TablaEstadisticaRowDeleting" msprop:Generator_RowChangingName="TablaEstadisticaRowChanging" msprop:Generator_RowEvHandlerName="TablaEstadisticaRowChangeEventHandler" msprop:Generator_RowDeletedName="TablaEstadisticaRowDeleted" msprop:Generator_RowClassName="TablaEstadisticaRow" msprop:Generator_UserTableName="TablaEstadistica" msprop:Generator_RowEvArgName="TablaEstadisticaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PRODUCTO" msprop:Generator_ColumnVarNameInTable="columnPRODUCTO" msprop:Generator_ColumnPropNameInRow="PRODUCTO" msprop:Generator_ColumnPropNameInTable="PRODUCTOColumn" msprop:Generator_UserColumnName="PRODUCTO" type="xs:string" minOccurs="0" />
+              <xs:element name="CANTIDAD" msprop:Generator_ColumnVarNameInTable="columnCANTIDAD" msprop:Generator_ColumnPropNameInRow="CANTIDAD" msprop:Generator_ColumnPropNameInTable="CANTIDADColumn" msprop:Generator_UserColumnName="CANTIDAD" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

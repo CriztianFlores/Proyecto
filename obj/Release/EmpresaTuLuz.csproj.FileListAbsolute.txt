@@ -1,0 +1,13 @@
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Release\EmpresaTuLuz.exe.config
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Release\EmpresaTuLuz.exe
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\bin\Release\EmpresaTuLuz.pdb
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.LoginForm.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.PrincipalForm.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.Properties.Resources.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.RegistrarCliente.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.RegistrarEmpleado.resources
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.csproj.GenerateResource.Cache
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.exe
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.pdb
+c:\users\cris\documents\visual studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Documents\Visual Studio 2015\Projects\EmpresaTuLuz\EmpresaTuLuz\obj\Release\EmpresaTuLuz.Empleados.resources
